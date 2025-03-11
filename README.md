@@ -82,15 +82,15 @@ console.log(meta.toHtml());
 <meta name="twitter:image" content="https://example.com/twitter-image.jpg" />
 ```
 
-## **✨ Features**
+## **Features**
 
-- **📢 Automated Metadata Generation** – SEO, Open Graph (Facebook, LinkedIn, etc.), Twitter Cards.
-- **🔗 Canonical URL Support** – Prevents duplicate content issues for search engines.
-- **🎨 Theme & Branding** – Supports `theme-color`, `og:site_name`, and more.
-- **⚡ Social Media Optimization** – Automatically generates **Open Graph** (`og:*`) and **Twitter** (`twitter:*`) meta tags.
-- **🌍 Locale Awareness** – Handles `og:locale`, `og:determiner`, and `twitter:site`.
-- **📏 Viewport & Charset Defaults** – Ensures **best-practice settings** for mobile and modern browsers.
-- **⚠️ Warnings for Missing Best-Practice Tags** – Ensures **completeness** and **proper metadata structure**.
+- **Automated Metadata Generation** – SEO, Open Graph (Facebook, LinkedIn, etc.), Twitter Cards.
+- **Canonical URL Support** – Prevents duplicate content issues for search engines.
+- **Theme & Branding** – Supports `theme-color`, `og:site_name`, and more.
+- **Social Media Optimization** – Automatically generates **Open Graph** (`og:*`) and **Twitter** (`twitter:*`) meta tags.
+- **Locale Awareness** – Handles `og:locale`, `og:determiner`, and `twitter:site`.
+- **Viewport & Charset Defaults** – Ensures **best-practice settings** for mobile and modern browsers.
+- **Warnings for Missing Best-Practice Tags** – Ensures **completeness** and **proper metadata structure**.
 
 ## License
 
